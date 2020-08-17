@@ -10,4 +10,4 @@
                            Diploma in Electronics and Communication Engineering from Agnel Polytechnic Verna.
 - 📫 How to reach me: https://www.linkedin.com/in/ferozchoudhary/
 - ⚡ Ex Student council member at Goa college of Engineer.
-- 💬 connect with me on instagram @rising_legend.
+- 💬 connect with me on instagram https://instagram.com/rising_legend
