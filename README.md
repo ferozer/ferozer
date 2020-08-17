@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/{ferozer}/{ferozer}.svg)](http://hits.dwyl.com/{ferozer}/{ferozer})
+
 - 🔭 Let's Begin...
 - 🌱 Physical Design Engineer
 - 😄 You can subscribe my channel and learn Physical Design Concepts >> https://youtube.com/c/FerozAhmed_PhysicalDesign
