@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**ferozer/ferozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 Let's Begin...
 - 🌱 Physical Design Engineer
 - 😄 You can subscribe my channel and learn Physical Design Concepts >> https://youtube.com/c/FerozAhmed_PhysicalDesign
