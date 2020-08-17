@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/{ferozer}/{ferozer}.svg)](http://hits.dwyl.com/{ferozer}/{ferozer})
 
-- 🔭 Let's Begin...
+- 🔭 “Always walk through life as if you have something new to learn and you will.”
 - 🌱 Physical Design Engineer
 - 😄 You can subscribe my channel and learn Physical Design Concepts >> https://youtube.com/c/FerozAhmed_PhysicalDesign
 - 💬 You can mail me if you need any Physical design study materials @ ferzoer3@gmail.com
