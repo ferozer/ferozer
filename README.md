@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Let's Begin...
+###- 🔭 Let's Begin...
 - 🌱 Physical Design Engineer
 - 😄 You can subscribe my channel and learn Physical Design Concepts >> https://youtube.com/c/FerozAhmed_PhysicalDesign
 - 💬 You can mail me if you need any Physical design study materials @ ferzoer3@gmail.com
@@ -9,4 +9,3 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ferozchoudhary/
 - ⚡ Ex Student council member at Goa college of Engineer.
 - 💬 connect with me on instagram @rising_legend.
-
